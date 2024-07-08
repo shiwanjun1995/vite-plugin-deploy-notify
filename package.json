@@ -2,7 +2,7 @@
   "name": "vite-plugin-deploy-notify",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "dev": "tsup src/index.ts --watch",
     "build": "tsup src/index.ts --clean --dts --format cjs,esm"
