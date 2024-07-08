@@ -3,7 +3,7 @@
 ## 安装所需依赖
 
 ```js
-typescript: ts 开发, 更有助于插件后续的维护
+typescript: ts 开发, 更有助于插件后续的维护.
 
 @types/node: 在 node 中使用 typescript 时, 用来加载所有的类型定义。
 
